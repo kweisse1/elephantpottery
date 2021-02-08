@@ -1,6 +1,9 @@
+import React, {Component} from 'react';
+import {Navbar, NavbarBrand } from 'reractstrap';
 import logo from './logo.svg';
 import './App.css';
 
+// add Navbar here
 function App() {
   return (
     <div className="App">
